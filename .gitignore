@@ -1,0 +1,5 @@
+# Ignore everything in the hooks directory
+hooks/*
+
+# Keep this file to preserve the directory itself
+!hooks/.keep
